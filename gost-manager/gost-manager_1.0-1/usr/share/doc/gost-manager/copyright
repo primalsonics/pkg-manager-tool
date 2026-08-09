@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gost-manager
+Source: https://github.com/primalsonics
+
+Files: *
+Copyright: 2026 Dan M.Njrn.
+License: MIT

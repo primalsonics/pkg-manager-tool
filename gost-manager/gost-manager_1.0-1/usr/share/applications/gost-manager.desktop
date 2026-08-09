@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Gost Manager
+Comment=TODO: one-line description of Gost Manager
+Exec=gost-manager
+Icon=gost-manager
+Terminal=true
+Categories=System;

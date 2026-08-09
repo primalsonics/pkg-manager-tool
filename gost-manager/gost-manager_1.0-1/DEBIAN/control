@@ -1,0 +1,10 @@
+Package: gost-manager
+Version: 1.0-1
+Section: admin
+Priority: optional
+Architecture: all
+Depends: whiptail
+Maintainer: Dan M.Njrn. <your-email-here@example.com>
+Description: TODO: short summary of Gost Manager
+ TODO: longer description, each continuation line indented
+ with exactly one space.
